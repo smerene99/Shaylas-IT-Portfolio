@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Client Success Projects:</h2>
 
-
+[Fidelity Investments Customer Relationship Advocate](
 
 <h2>📃 Certificates</h2>
 
