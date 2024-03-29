@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-<h2>👨‍💻 Customer Services Simulations:</h2>
+<h2>👨‍💻 Customer Service Simulations:</h2>
 
 [Fidelity Investments Customer Relationship Advocate](https://medium.com/@smerene/fidelity-investments-customer-relationship-advocate-job-simulation-c435331e48e9)
 
