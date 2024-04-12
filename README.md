@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Projects</h2>
 [Azure Honeypot (SIEM) Project]()
+[Active Directory Home Lab]()
+[Vulnerability Management with Nessus]()
 
-<h2>👨‍💻 Customer Service Simulations:</h2>
+<h2>👨‍💻 Simulations:</h2>
 
 [Fidelity Investments Customer Relationship Advocate](https://medium.com/@smerene/fidelity-investments-customer-relationship-advocate-job-simulation-c435331e48e9)
 
