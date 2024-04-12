@@ -1,7 +1,8 @@
 <h1>Hi, I'm Shayla! <br/>
 
 <h2>👨‍💻 Projects</h2>
-[Azure Honeypot (SIEM) Project]()
+
+[Azure Honeypot (SIEM) Project](https://github.com/smerene99/Azure-Honeypot-SIEM-)
 [Active Directory Home Lab]()
 [Vulnerability Management with Nessus]()
 
