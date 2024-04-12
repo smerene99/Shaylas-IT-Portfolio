@@ -8,6 +8,9 @@
 
 [Vulnerability Management with Nessus](https://github.com/smerene99/Vulnerability-Management-with-Nessus)
 
+<h2>👨‍💻 Case Study</h2>
+[Audit Case Study | AT&T data breach]()
+
 <h2>👨‍💻 Simulations:</h2>
 
 [Fidelity Investments Customer Relationship Advocate](https://medium.com/@smerene/fidelity-investments-customer-relationship-advocate-job-simulation-c435331e48e9)
@@ -28,10 +31,12 @@
 - [Codio Understanding ISO Security Standards for Your Organization](https://coursera.org/verify/VEBP54RQT33E)
 - [Infosec NIST 800-171](https://coursera.org/verify/LM83FJ5BWR8E)
 - [Kennesaw State University The GRC Approach to Managing Cybersecurity](https://coursera.org/verify/3R7X7JPLNJCY)
+- [UCI Security Governance & Compliance](https://coursera.org/verify/VS6VJ2L3BU6G)
 
 <h3> Cloud Computing </h3>
 
 - [AWS Cloud Solutions Architect](https://coursera.org/verify/professional-cert/S9VCWQHJ7BEP)
+- [Google Trust and Security with Google Cloud](https://coursera.org/verify/3NTMLXK855G9)
 <h3> Ethical Hacking</h3>
 
 - [EC-Council Ethical Hacking Essentials (EHE)](https://coursera.org/verify/NC887M2LE3MH)
