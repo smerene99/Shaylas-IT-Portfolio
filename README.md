@@ -9,7 +9,8 @@
 [Vulnerability Management with Nessus](https://github.com/smerene99/Vulnerability-Management-with-Nessus)
 
 <h2>👨‍💻 Case Study</h2>
-[Audit Case Study | AT&T data breach]()
+
+[Audit Case Study | AT&T data breach](https://medium.com/@smerene/audit-case-study-at-t-data-breach-dd735a1d76b5)
 
 <h2>👨‍💻 Simulations:</h2>
 
