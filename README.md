@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shayla! <br/>
+<h1>Hi, I'm Shayla. Here's my Portfolio! <br/>
 
 <h2>👨‍💻 Projects</h2>
 
@@ -8,11 +8,11 @@
 
 [Vulnerability Management with Nessus](https://github.com/smerene99/Vulnerability-Management-with-Nessus)
 
-<h2>👨‍💻 Case Study</h2>
+<h2>📄 Case Study</h2>
 
 [Audit Case Study | AT&T data breach](https://medium.com/@smerene/audit-case-study-at-t-data-breach-dd735a1d76b5)
 
-<h2>👨‍💻 Simulations:</h2>
+<h2>🖥️ Simulations:</h2>
 
 [Fidelity Investments Customer Relationship Advocate](https://medium.com/@smerene/fidelity-investments-customer-relationship-advocate-job-simulation-c435331e48e9)
 
