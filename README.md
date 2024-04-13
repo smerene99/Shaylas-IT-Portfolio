@@ -39,6 +39,7 @@
 
 - [AWS Cloud Solutions Architect](https://coursera.org/verify/professional-cert/S9VCWQHJ7BEP)
 - [Google Trust and Security with Google Cloud](https://coursera.org/verify/3NTMLXK855G9)
+- [AWS Cloud Solutions Architect Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/S9VCWQHJ7BEP)
 <h3> Ethical Hacking</h3>
 
 - [EC-Council Ethical Hacking Essentials (EHE)](https://coursera.org/verify/NC887M2LE3MH)
