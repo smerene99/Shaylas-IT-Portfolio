@@ -26,6 +26,7 @@
 <h3> Cybersecurity</h3>
 
 - [Google Cybersecurity Professional](https://coursera.org/verify/professional-cert/HRK4C6AMLHEQ)
+- [Microsoft Cybersecurity Management and Compliance](https://coursera.org/verify/8YX46XGBDTKA)
 <h3> Governance, Risk, and Compliance</h3>
 
 - [NYU Enterprise and Infrastructure Security](https://coursera.org/verify/VQU6W967RZWQ)
